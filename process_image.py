@@ -31,4 +31,3 @@ else:
     print("--- 实验成功 ---")
     print(f"原始图片大小: {img.shape}")
     print("已生成灰度图: test_gray.jpg")
-    print("已生成边缘轮廓图: test_edges3.jpg")
